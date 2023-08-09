@@ -1,5 +1,5 @@
 # PengalamanBelajar
-Repository ini berisi pengalaman belajar dicoding
+Repository ini berisi pengalaman belajar dicoding yang berasal dari developer
 
 **14 Juni 2021**  
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
